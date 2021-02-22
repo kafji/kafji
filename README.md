@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## The Big Plan
+
+1. Try to not become part of the problem.
+2. Find problem.
+3. Fix problem.
+4. Ensure the problem won't get repeated.
+5. ...
+6. Profit?
+
 <!--
 **kafji/kafji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
